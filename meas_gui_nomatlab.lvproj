@@ -1,8 +1,23 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="18008000">
 	<Property Name="CCSymbols" Type="Str">NO_MATLAB,1;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Property Name="NI.Project.Description" Type="Str"></Property>
+	<Property Name="NI.Project.Description" Type="Str">MeasGUI - Measurement Graphics User Interface
+Copyright (c) 2018 Frans Korhonen
+
+MeasGUI was originally developed at Institute for Atmospheric 
+and Earth System Research / Physics, Faculty of Science, 
+University of Helsinki, Finland
+
+Assistance, experience and feedback from following persons have been 
+critical in development of MeasGUI: Michel Attoui, Juha Kangasluoma, 
+Lauri Ahonen, Ella Häkkinen, Markku Kulmala and Tuukka Petäjä.
+
+This file is part of MeasGUI. 
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/. </Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
